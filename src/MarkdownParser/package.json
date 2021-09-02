@@ -1,0 +1,25 @@
+{
+    "package": {
+        "package_name": "net.intellivoid.markdown_parser",
+        "name": "MarkdownParser",
+        "version": "1.8.0",
+        "author": "Emanuil Rusev",
+        "organization": "Erusev",
+        "description": "Parser for Markdown",
+        "url": "http://parsedown.org",
+        "dependencies": [],
+        "configuration": {
+            "autoload_method": "generated_spl",
+            "main": null,
+            "post_installation": [],
+            "pre_installation": []
+        }
+    },
+    "components": [
+        {
+            "required": true,
+            "file": "MarkdownParser.php"
+        }
+    ],
+    "files": []
+}
